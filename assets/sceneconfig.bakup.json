@@ -1,0 +1,104 @@
+{
+  "lights": {
+    
+  },
+  "cameras": {
+    
+  },
+  "models": {
+    "wall": {
+      "path": "wall.glb",
+      "name": "wall",
+      "type": "static",
+      "id": 1,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.25,
+        "y": 0.25,
+        "z": 0.25
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "console": {
+      "path": "konzola.glb",
+      "name": "console",
+      "type": "static",
+      "id": 2,
+      "position": {
+        "x": 0,
+        "y": 0.05,
+        "z": 0
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "K": {
+      "path": "28_30K.glb",
+      "name": "K",
+      "type": "static",
+      "id": 1,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "O": {
+      "path": "28_30O.glb",
+      "name": "O",
+      "type": "static",
+      "id": 1,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "S": {
+      "path": "28_30S.glb",
+      "name": "S",
+      "type": "static",
+      "id": 1,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "W": {
+      "path": "28_30W.glb",
+      "name": "W",
+      "type": "static",
+      "id": 1,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.25,
+        "y": 0.25,
+        "z": 0.25
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    }
+  }
+}

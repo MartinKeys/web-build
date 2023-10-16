@@ -1,0 +1,61 @@
+{
+  "consoles": {
+      "28_30": {
+          "200": {
+              "cameraPosition": {
+                "x": 314,
+                "y": 59,
+                "z": 173
+              },
+              "OCTarget": {
+                "x": 120,
+                "y": 0,
+                "z": 0
+              },
+              "partsCount": 5,
+              "wallScale": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1
+              }
+          },
+          "300": {
+            "cameraPosition": {
+              "x": 384,
+              "y": 76,
+              "z": 196
+            },
+            "OCTarget": {
+              "x": 180,
+              "y": 0,
+              "z": 0
+            },
+            "partsCount": 7,
+            "wallScale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            }
+          },
+          "400": {
+            "cameraPosition": {
+              "x": 533,
+              "y": 66,
+              "z": 290
+            },
+            "OCTarget": {
+              "x": 270,
+              "y": 0,
+              "z": 0
+            },
+            "partsCount": 10,
+            "wallScale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            }
+          }
+      }
+  }
+}
+  
