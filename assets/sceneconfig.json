@@ -3,13 +3,13 @@
       "28_30": {
           "200": {
               "cameraPosition": {
-                "x": 314,
-                "y": 59,
-                "z": 173
+                "x": 325,
+                "y": 98,
+                "z": 260
               },
               "OCTarget": {
                 "x": 120,
-                "y": 0,
+                "y": -20,
                 "z": 0
               },
               "partsCount": 5,
@@ -17,17 +17,19 @@
                   "x": 1,
                   "y": 1,
                   "z": 1
-              }
+              },
+              "partLength": 39.5,
+              "labelFontSizePX" : "14px"
           },
           "300": {
             "cameraPosition": {
-              "x": 384,
-              "y": 76,
-              "z": 196
+              "x": 420,
+              "y": 115,
+              "z": 270
             },
             "OCTarget": {
               "x": 180,
-              "y": 0,
+              "y": -20,
               "z": 0
             },
             "partsCount": 7,
@@ -35,17 +37,19 @@
                 "x": 1,
                 "y": 1,
                 "z": 1
-            }
+            },
+            "partLength": 39.5,
+            "labelFontSizePX" : "15px"
           },
           "400": {
             "cameraPosition": {
-              "x": 533,
-              "y": 66,
-              "z": 290
+              "x": 570,
+              "y": 90,
+              "z": 250
             },
             "OCTarget": {
-              "x": 270,
-              "y": 0,
+              "x": 290,
+              "y": -20,
               "z": 0
             },
             "partsCount": 10,
@@ -53,17 +57,19 @@
                 "x": 1,
                 "y": 1,
                 "z": 1
-            }
+            },
+            "partLength": 39.5,
+            "labelFontSizePX" : "16px"
           },
           "440": {
             "cameraPosition": {
-              "x": 568,
-              "y": 58,
-              "z": 261
+              "x": 615,
+              "y": 110,
+              "z": 250
             },
             "OCTarget": {
               "x": 320,
-              "y": 0,
+              "y": -20,
               "z": 0
             },
             "partsCount": 11,
@@ -71,17 +77,19 @@
                 "x": 1,
                 "y": 1,
                 "z": 1
-            }
+            },
+            "partLength": 39.5,
+            "labelFontSizePX" : "18px"
           },
           "500": {
             "cameraPosition": {
-              "x": 613,
-              "y": 51,
-              "z": 216
+              "x": 675,
+              "y": 110,
+              "z": 240
             },
             "OCTarget": {
               "x": 350,
-              "y": 0,
+              "y": -20,
               "z": 0
             },
             "partsCount": 12,
@@ -89,61 +97,69 @@
                 "x": 1,
                 "y": 1,
                 "z": 1
-            }
+            },
+            "partLength": 39.5,
+            "labelFontSizePX" : "18px"
           },
           "600": {
             "cameraPosition": {
-              "x": 613,
-              "y": 51,
-              "z": 216
+              "x": 730,
+              "y": 100,
+              "z": 220
             },
             "OCTarget": {
-              "x": 350,
-              "y": 0,
+              "x": 390,
+              "y": -20,
               "z": 0
             },
-            "partsCount": 12,
+            "partsCount": 13,
             "wallScale": {
                 "x": 1,
                 "y": 1,
                 "z": 1
-            }
+            },
+            "partLength": 39.5,
+            "labelFontSizePX" : "18px"
           },
           "750": {
             "cameraPosition": {
-              "x": 613,
-              "y": 51,
-              "z": 216
+              "x": 770,
+              "y": 80,
+              "z": 230
             },
             "OCTarget": {
-              "x": 350,
-              "y": 0,
+              "x": 410,
+              "y": -30,
               "z": 0
             },
-            "partsCount": 12,
+            "partsCount": 14,
             "wallScale": {
                 "x": 1,
                 "y": 1,
                 "z": 1
-            }
+            },
+            "partLength": 39.5,
+            "labelFontSizePX" : "18px"
           },
           "900": {
             "cameraPosition": {
-              "x": 613,
-              "y": 51,
-              "z": 216
+              "x": 830,
+              "y": 65,
+              "z": 270
             },
             "OCTarget": {
-              "x": 350,
-              "y": 0,
+              "x": 440,
+              "y": -30,
               "z": 0
             },
-            "partsCount": 12,
+            "partsCount": 15,
             "wallScale": {
                 "x": 1,
                 "y": 1,
                 "z": 1
-            }
+            },
+            "partLength": 39.5,
+            "labelFontSizePX" : "18px"
           }
       }
   }
